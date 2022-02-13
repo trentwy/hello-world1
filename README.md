@@ -1,2 +1,2 @@
 # hello-world1
-Intro work
+I am a student at UW. Looking forawrd to working on my capstone project.
